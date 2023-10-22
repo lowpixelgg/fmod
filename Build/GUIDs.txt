@@ -1,0 +1,9 @@
+{6e064b1a-5845-44a7-9e5b-e61188e4030e} bank:/Audios
+{5e2e221c-f2a9-41d8-8764-fa120cd578cc} bank:/Master
+{c63302c8-83d2-0d9a-012d-70ecfd267e54} bank:/Master.strings
+{55bf8a21-d84c-47e9-9209-2e537f4183a3} bus:/
+{17ed1917-eb59-4e9e-8984-d5f8b531baa1} bus:/Reverb
+{eb3f7326-e619-4aff-868e-9348b46d21af} event:/CarroTeste1/Engine/EngineCar
+{24d59f83-ddc2-4e17-91e4-0a979a8f0678} parameter:/CarroTeste1/Distance
+{afa7b268-d5b1-47b3-9396-95cfadb6d9a5} parameter:/CarroTeste1/Load
+{38fe8583-2286-4861-92c9-88985adbf11b} parameter:/CarroTeste1/RPM

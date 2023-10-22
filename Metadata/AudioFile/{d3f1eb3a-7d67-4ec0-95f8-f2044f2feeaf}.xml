@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d3f1eb3a-7d67-4ec0-95f8-f2044f2feeaf}">
+		<property name="assetPath">
+			<value>dojaoamericano/rTEC3_onhigh_ex.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.2681179138321994</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0682010f-143d-46d9-951b-f7cfd9122dbf}</destination>
+		</relationship>
+	</object>
+</objects>
