@@ -4,6 +4,9 @@
 {55bf8a21-d84c-47e9-9209-2e537f4183a3} bus:/
 {17ed1917-eb59-4e9e-8984-d5f8b531baa1} bus:/Reverb
 {eb3f7326-e619-4aff-868e-9348b46d21af} event:/CarroTeste1/Engine/EngineCar
+{a3c92341-4531-4ccc-bf55-088fb3aa0083} event:/CarroTeste1/Engine/StartEngine
 {24d59f83-ddc2-4e17-91e4-0a979a8f0678} parameter:/CarroTeste1/Distance
-{afa7b268-d5b1-47b3-9396-95cfadb6d9a5} parameter:/CarroTeste1/Load
 {38fe8583-2286-4861-92c9-88985adbf11b} parameter:/CarroTeste1/RPM
+{4c64701b-39e0-4670-af21-04867b513a9d} parameter:/Load
+{1b36d68c-93b0-4066-ac59-8d26fdeaf85d} parameter:/RPM
+{761f3cde-46fb-483b-adaf-621c69b6e175} parameter:/StartEngine

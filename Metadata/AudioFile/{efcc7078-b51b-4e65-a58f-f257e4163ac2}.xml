@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{cbeb1472-9090-4aae-b466-e35b8881c367}">
+	<object class="AudioFile" id="{efcc7078-b51b-4e65-a58f-f257e4163ac2}">
 		<property name="assetPath">
-			<value>dojaoamericano/start car.wav</value>
+			<value>dojaoamericano/pidle soundcar test.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.9450208333333334</value>
+			<value>7.8642176870748299</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{0682010f-143d-46d9-951b-f7cfd9122dbf}</destination>
